@@ -8,3 +8,5 @@ sentence_transformers
 faiss-cpu
 chromadb
 numpy
+langchain-groq
+python-dotenv
